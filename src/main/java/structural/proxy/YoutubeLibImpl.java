@@ -57,7 +57,7 @@ public class YoutubeLibImpl implements YoutubeLib{
 
     private Video getSomeVideo(String videoId) {
         System.out.print("Downloading video... ");
-
+        System.out.print("Downloading video... ");
         experienceNetworkLatency();
         Video video = new Video(videoId, "Some video title");
 
