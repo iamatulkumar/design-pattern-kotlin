@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("This is iterator demo");
         System.out.println("S1");
         System.out.println("S2");
+        System.out.println("S3");
     }
 }
